@@ -9,4 +9,7 @@ An web audio player which scans your device for audio songs and lists them in yo
 - HTML/CSS - UI
 
 # Libraries
- - Font Awesome
+- Font Awesome Free 5.14.0 by @fontawesome 
+https://fontawesome.com
+License - 
+https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
