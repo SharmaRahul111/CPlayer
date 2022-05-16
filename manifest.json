@@ -1,0 +1,12 @@
+{
+	"name": "CPlayer",
+	"background_color": "#00f0ff",
+	"display": "fullscreen",
+	"icons": [
+		{
+			"src": "includes/fa-icons/.ico/logo.png",
+			"type": "image/png",
+			"size": "200x200"
+		}
+	]
+}
